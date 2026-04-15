@@ -16,8 +16,6 @@
     </style>
 </head>
 <body>
-    <h1>Privacy Policy for AR Messenger</h1>
-    <p><strong>Effective Date:</strong> April 15, 2026</p>
 
     <h2>1. Information We Collect</h2>
     <p>AR Messenger is a lightweight client for accessing Google services. We collect and process:</p>
